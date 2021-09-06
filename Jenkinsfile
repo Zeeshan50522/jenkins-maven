@@ -26,7 +26,7 @@ pipeline {
                     ], 
                     credentialsId: 'nexus', 
                     groupId: 'org.example', 
-                    nexusUrl: '54.242.112.97:8081', 
+                    nexusUrl: '54.160.156.229:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
                     repository: 'nexus-maven', 
